@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <metadata>
+      <epub:meta content="Copyright (c) 2017 Curious Learning" name="copyright"/>
+    </metadata>
+  </head>
+  <body>
+      <par id="smil_1-1">
+        <text src="p1.xhtml#smil_p1w1"/>
+        <audio clipBegin="0.125s" clipEnd="1.095s" src="audio/scene1_child_stanza.mp3"/>
+      </par>
+      <par id="smil_1-2">
+        <text src="p1.xhtml#smil_p1w2"/>
+        <audio clipBegin="1.095s" clipEnd="1.995s" src="audio/scene1_child_stanza.mp3"/>
+      </par>
+      <par id="smil_1-3">
+        <text src="p1.xhtml#smil_p1w3"/>
+        <audio clipBegin="1.995s" clipEnd="3.775s" src="audio/scene1_child_stanza.mp3"/>
+      </par>
+      <par id="smil_1-3">
+        <text src="p1.xhtml#smil_p1w4"/>
+        <audio clipBegin="3.775s" clipEnd="4.565s" src="audio/scene1_child_stanza.mp3"/>
+      </par>
+  </body>
+</smil>

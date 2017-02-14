@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <metadata>
+      <epub:meta content="Copyright (c) 2017 Curious Learning" name="copyright"/>
+    </metadata>
+  </head>
+  <body>
+    <seq epub:textref="p3.xhtml">
+      <par id="smil_3-1">
+        <text src="p3.xhtml#smil_p3w1"/>
+        <audio clipBegin="0.288" clipEnd="0.775s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-2">
+        <text src="p3.xhtml#smil_p3w2"/>
+        <audio clipBegin="0.775s" clipEnd="1.500s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-3">
+        <text src="p3.xhtml#smil_p3w3"/>
+        <audio clipBegin="1.500s" clipEnd="2.133s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-4">
+        <text src="p3.xhtml#smil_p3w4"/>
+        <audio clipBegin="2.133s" clipEnd="3.100s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-5">
+        <text src="p3.xhtml#smil_p3w5"/>
+        <audio clipBegin="3.100s" clipEnd="3.534s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-6">
+        <text src="p3.xhtml#smil_p3w6"/>
+        <audio clipBegin="3.534s" clipEnd="3.715s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-7">
+        <text src="p3.xhtml#smil_p3w7"/>
+        <audio clipBegin="3.715s" clipEnd="3.835s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-8">
+        <text src="p3.xhtml#smil_p3w8"/>
+        <audio clipBegin="3.835s" clipEnd="5.305s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-9">
+        <text src="p3.xhtml#smil_p3w9"/>
+        <audio clipBegin="5.305s" clipEnd="5.695s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-10">
+        <text src="p3.xhtml#smil_p3w10"/>
+        <audio clipBegin="5.695s" clipEnd="6.275s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-11">
+        <text src="p3.xhtml#smil_p3w11"/>
+        <audio clipBegin="6.275s" clipEnd="6.635s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-12">
+        <text src="p3.xhtml#smil_p3w12"/>
+        <audio clipBegin="6.635s" clipEnd="7.725s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-13">
+        <text src="p3.xhtml#smil_p3w13"/>
+        <audio clipBegin="7.725s" clipEnd="8.155s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-14">
+        <text src="p3.xhtml#smil_p3w14"/>
+        <audio clipBegin="8.155s" clipEnd="8.275s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-15">
+        <text src="p3.xhtml#smil_p3w15"/>
+        <audio clipBegin="8.275s" clipEnd="8.635s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+      <par id="smil_3-8">
+        <text src="p3.xhtml#smil_p3w16"/>
+        <audio clipBegin="8.635s" clipEnd="9.935s" src="audio/scene3_duck_stanza.mp3"/>
+      </par>
+
+
+    </seq>
+  </body>
+</smil>

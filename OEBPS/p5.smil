@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <metadata>
+      <epub:meta content="Copyright (c) 2017 Curious Learning" name="copyright"/>
+    </metadata>
+  </head>
+  <body>
+      <par id="smil_5-1">
+        <text src="p5.xhtml#smil_p5w1"/>
+        <audio clipBegin="0.105s" clipEnd="0.377" src="audio/scene8_duck_stanza_white.mp3"/>
+      </par>
+      <par id="smil_5-2">
+        <text src="p5.xhtml#smil_p5w2"/>
+        <audio clipBegin="0.377s" clipEnd="0.595s" src="audio/scene8_duck_stanza_white.mp3"/>
+      </par>
+      <par id="smil_5-3">
+        <text src="p5.xhtml#smil_p5w3"/>
+        <audio clipBegin="0.595s" clipEnd="2.215s" src="audio/scene8_duck_stanza_white.mp3"/>
+      </par>
+      <par id="smil_5-4">
+        <text src="p5.xhtml#smil_p5w4"/>
+        <audio clipBegin="2.215s" clipEnd="2.598s" src="audio/scene8_duck_stanza_white.mp3"/>
+      </par>
+      <par id="smil_5-5">
+        <text src="p5.xhtml#smil_p5w5"/>
+        <audio clipBegin="2.598s" clipEnd="2.955s" src="audio/scene8_duck_stanza_white.mp3"/>
+      </par>
+      <par id="smil_5-6-white">
+        <text src="p5.xhtml#smil_p5w6_white"/>
+        <audio clipBegin="2.955s" clipEnd="4.205s" src="audio/scene8_duck_stanza_white.mp3"/>
+      </par>
+      <par id="smil_5-6-brown">
+        <text src="p5.xhtml#smil_p5w6_brown"/>
+        <audio clipBegin="3.045s" clipEnd="4.165s" src="audio/scene8_duck_stanza_brown.mp3"/>
+      </par>
+      <par id="smil_5-6-orange">
+        <text src="p5.xhtml#smil_p5w6_orange"/>
+        <audio clipBegin="3.305s" clipEnd="4.335s" src="audio/scene8_duck_stanza_orange.mp3"/>
+      </par>
+      <par id="smil_5-6-red">
+        <text src="p5.xhtml#smil_p5w6_red"/>
+        <audio clipBegin="2.815s" clipEnd="3.425s" src="audio/scene8_duck_stanza_red.mp3"/>
+      </par>
+      <par id="smil_5-6-yellow">
+        <text src="p5.xhtml#smil_p5w6_yellow"/>
+        <audio clipBegin="2.415s" clipEnd="3.975s" src="audio/scene8_duck_stanza_yellow.mp3"/>
+      </par>
+  </body>
+</smil>

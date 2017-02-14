@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <metadata>
+      <epub:meta content="Copyright (c) 2017 Curious Learning" name="copyright"/>
+    </metadata>
+  </head>
+  <body>
+      <par id="smil_4-1">
+        <text src="p4.xhtml#smil_p4w1"/>
+        <audio clipBegin="0.175s" clipEnd="0.775s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-2">
+        <text src="p4.xhtml#smil_p4w2"/>
+        <audio clipBegin="0.775s" clipEnd="1.095s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-3">
+        <text src="p4.xhtml#smil_p4w3"/>
+        <audio clipBegin="1.095s" clipEnd="1.255s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-4">
+        <text src="p4.xhtml#smil_p4w4"/>
+        <audio clipBegin="1.255s" clipEnd="2.325s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-5">
+        <text src="p4.xhtml#smil_p4w5"/>
+        <audio clipBegin="2.325s" clipEnd="2.965s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-6">
+        <text src="p4.xhtml#smil_p4w6"/>
+        <audio clipBegin="2.965s" clipEnd="3.555s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-7">
+        <text src="p4.xhtml#smil_p4w7"/>
+        <audio clipBegin="3.555s" clipEnd="4.435s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-8">
+        <text src="p4.xhtml#smil_p4w8"/>
+        <audio clipBegin="4.435s" clipEnd="4.965s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-9">
+        <text src="p4.xhtml#smil_p4w9"/>
+        <audio clipBegin="4.965s" clipEnd="5.615s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-10">
+        <text src="p4.xhtml#smil_p4w10"/>
+        <audio clipBegin="5.615s" clipEnd="6.905s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-11">
+        <text src="p4.xhtml#smil_p4w11"/>
+        <audio clipBegin="6.905s" clipEnd="7.225s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-12">
+        <text src="p4.xhtml#smil_p4w12"/>
+        <audio clipBegin="7.225s" clipEnd="7.895s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-13">
+        <text src="p4.xhtml#smil_p4w13"/>
+        <audio clipBegin="7.895s" clipEnd="8.235s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+      <par id="smil_4-14">
+        <text src="p4.xhtml#smil_p4w14"/>
+        <audio clipBegin="8.235s" clipEnd="9.305s" src="audio/scene7_child_stanza.mp3"/>
+      </par>
+  </body>
+</smil>
