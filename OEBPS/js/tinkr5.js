@@ -1,8 +1,33 @@
+// a RegEx for matching words to narrate based on their ID
+var narrationWordMatch = new RegExp("^smil");
+
+// our narration audio as a sprite
+var narration = new Howl({
+  src: ['audio/scene8_duck_stanza_white.mp3'],
+  sprite: {
+    all: [0000, 4205],
+    smil_p5w1: [0105, 272],
+    smil_p5w2: [0377, 218],
+    smil_p5w3: [0595, 1620],
+    smil_p5w4: [2215, 0383],
+    smil_p5w5: [2598, 0357],
+    smil_p5w6_white: [2955, 1250]
+  }
+
+});
+
 // our click listener
 document.addEventListener('click', function(e) {
     var clickedElement = e.target.id;
 
     console.log(clickedElement);
+
+    // test to see if the clickedElement matches a word we should narrate
+    if (narrationWordMatch.test(clickedElement)) {
+        playSoundAndChangeCSS(clickedElement);
+    }
+    else if (clickedElement == "readAloud")
+        playAll(5, 6);
     
 });
 
