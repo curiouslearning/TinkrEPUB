@@ -55,7 +55,6 @@
         <text src="p2.xhtml#smil_p2w12"/>
         <audio clipBegin="9.985s" clipEnd="10.935s" src="audio/scene2_duck_stanza.mp3"/>
       </par>
-
     </seq>
   </body>
 </smil>

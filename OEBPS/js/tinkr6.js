@@ -11,6 +11,9 @@ frogYupAudio.loop = false;
 var frogNopeAudio = new Audio('audio/frog_nope.mp3');
 frogNopeAudio.loop = false;
 
+// a RegEx for matching words to narrate based on their ID
+var narrationWordMatch = new RegExp("^smil");
+
 // our click listener
 document.addEventListener('click', function(e) {
     var clickedElement = e.target.id;
